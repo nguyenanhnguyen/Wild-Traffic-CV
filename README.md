@@ -1,5 +1,5 @@
 # Project ChaosIndex: Resilient Traffic Signal Control for Non-Standard Urban Mobility
-
+ 
 ## Abstract
 Current Artificial Intelligence (AI) models for traffic signal coordination are predominantly trained on highly structured, rule-compliant datasets. Consequently, these models suffer from severe performance degradation when deployed in developing urban environments characterized by non-standard, chaotic traffic behaviors. This project introduces a novel framework that quantifies abnormal vehicular trajectories into a mathematical variable, denoted as the $Chaos\_Index$, and integrates it as a dynamic reward/penalty function within a Reinforcement Learning (RL) architecture to optimize traffic signal phases and alleviate gridlock.
 
